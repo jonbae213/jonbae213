@@ -3314,3 +3314,11 @@ input, select, textarea {
 			}
 
 	}
+		.litext {
+			margin-left: 10px;
+		}
+
+		.licon {
+			color: #4acaa8;
+			font-size: 40px;
+		}
